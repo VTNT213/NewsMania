@@ -9,7 +9,7 @@ A news application built with React that provides users with the latest news acr
 - **Routing:** Utilizes react-router-dom for client-side routing, allowing users to navigate between different categories without refreshing the page.
   
 ### Technical Details:
-- Router Setup:
+- **Router Setup:**
 Uses BrowserRouter for routing.
 Defines routes using the Routes and Route components from react-router-dom.
 Each route is linked to a specific news category and displays the News component with relevant props.
